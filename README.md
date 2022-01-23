@@ -2,7 +2,7 @@
 - 👀 I’m interested in Product development through the use of data analysis
 - 🌱 I’m currently learning R, Python and Mechanical Engineering.
 - 💞️ I’m looking to collaborate on analysis and development of new product/services
-- 📫 How to reach me https://www.linkedin.com/in/guilherme-porto-6babba186/  or by e-mail engguilhermeporto@gmail.com
+- 📫 How to reach me https://www.linkedin.com/in/guilherme-porto-6babba186/  or by e-mail engguilhermeporto@gmail.com or https://github.com/GuilhermePort0
 
 <!---
 GuilhermePort0/GuilhermePort0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
